@@ -1,6 +1,6 @@
 type: Wall
 size: 2
-health: 16000
+health: 4000
 category: defense
 requirements: [
   ruby/40
