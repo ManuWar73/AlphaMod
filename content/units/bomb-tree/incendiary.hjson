@@ -2,7 +2,7 @@
 type: mech
 health: 500
 speed: 1.0
-range: 0
+range: 3
 mechSideSway: 0.25
 weapons: [{
   name: clear
@@ -13,7 +13,7 @@ weapons: [{
     damage: 0
     ammoMultiplier: 1
     killShooter: true
-    lifetime: 20
+    lifetime: 2
     speed: 1
     splashDamage: 300
     splashDamageRadius: 90
@@ -22,7 +22,7 @@ weapons: [{
     hitEffect: melting
     despawnUnit: alphamod-bomb
      despawnUnitCount: 2
-        despawnUnitRadius: 10
+        despawnUnitRadius: 1
   }
   shake: 5
   shootSound: explosion

@@ -1,9 +1,9 @@
 #tier 3
 type: mech
-hover: true
+hovers: true
 health: 1000
 speed: 1.6
-range: 0
+range: 3
 mechSideSway: 0.25
 weapons: [{
   name: clear
@@ -14,7 +14,7 @@ weapons: [{
     damage: 0
     ammoMultiplier: 1
     killShooter: true
-    lifetime: 30
+    lifetime: 3
     speed: 1
     splashDamage: 600
     splashDamageRadius: 160
@@ -23,7 +23,7 @@ weapons: [{
     hitEffect: melting
     despawnUnit: alphamod-incendiary
      despawnUnitCount: 4
-        despawnUnitRadius: 100
+        despawnUnitRadius: 1
   }
   shake: 10
   shootSound: explosion

@@ -2,7 +2,7 @@
 type: flying
 health: 5000
 speed: 2
-range: 0
+range: 3
 weapons: [{
   name: clear
   x: 0
@@ -12,7 +12,7 @@ weapons: [{
     damage: 0
     ammoMultiplier: 1
     killShooter: true
-    lifetime: 100
+    lifetime: 1
     speed: 1
     splashDamage: 3000
     splashDamageRadius: 320
@@ -21,7 +21,7 @@ weapons: [{
     hitEffect: melting
     despawnUnit: alphamod-nuke
     despawnUnitCount: 2
-    despawnUnitRadius: 10
+    despawnUnitRadius: 1
   }
   shake: 20
   shootSound: explosion
