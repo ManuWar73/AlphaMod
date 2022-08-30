@@ -20,5 +20,4 @@ requirements: [
 category: crafting
 outputItem: [
     thorium/2
-    silicon/2
     ]
