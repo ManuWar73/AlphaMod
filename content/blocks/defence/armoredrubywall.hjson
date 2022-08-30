@@ -18,7 +18,6 @@ shootType: {
            damage: 5
            speed: 8
            lifetime: 12
-           width: 3
-           length: 3
-           FrontColor: 05c7b7
+          frontColor: 05c7b7
+          backColor: 05c7b7
            }
