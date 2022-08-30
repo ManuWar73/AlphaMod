@@ -1,0 +1,24 @@
+type: GenericCrafter
+name: "Ruby uncompressor"
+size: 3
+hasPower: false
+hasLiquids: false
+hasItems: true
+craftTime: 120
+consumes: {
+  items: {
+    items: [
+      ruby/1
+    ]
+  }
+}
+requirements: [
+  silicone/20
+  thorium/20
+  ruby/20
+]
+category: crafting
+outputItems: {
+    thorium/2
+    silicone/2
+    }
