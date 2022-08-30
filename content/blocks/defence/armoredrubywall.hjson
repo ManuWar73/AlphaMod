@@ -8,6 +8,7 @@ requirements: [
   lead/80
 ]
 inaccuracy: 30
+range: 96
 reload: 1
 consumes: {
 power: 1
@@ -15,6 +16,8 @@ power: 1
 shootType: {
            type: BasicBulletType
            damage: 5
+           speed: 8
+           lifetime: 12
            width: 3
            length: 3
            lightColor: 05c7b7
