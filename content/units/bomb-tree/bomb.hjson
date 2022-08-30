@@ -1,7 +1,7 @@
 #tier 1
 type: mech
 health: 200
-speed: 1.1
+speed: 1.3
 range: 0
 mechSideSway: 0.25
 weapons: [{

@@ -1,9 +1,8 @@
 # tier 4
-type: mech
-health: 500
-speed: 1.0
+type: flying
+health: 5000
+speed: 2
 range: 0
-mechSideSway: 0.25
 weapons: [{
   name: clear
   x: 0
@@ -13,15 +12,17 @@ weapons: [{
     damage: 0
     ammoMultiplier: 1
     killShooter: true
-    lifetime: 20
+    lifetime: 100
     speed: 1
-    splashDamage: 300
-    splashDamageRadius: 90
+    splashDamage: 3000
+    splashDamageRadius: 320
     collidesAir: true
     instantDisappear: true
     hitEffect: melting
-    despawnUnit: alphamod-bomb
+    despawnUnit: alphamod-nuke
+    despawnUnitCount: 2
+    despawnUnitRadius: 10
   }
-  shake: 1
+  shake: 20
   shootSound: explosion
 }]

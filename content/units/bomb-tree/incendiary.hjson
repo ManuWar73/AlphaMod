@@ -21,7 +21,9 @@ weapons: [{
     instantDisappear: true
     hitEffect: melting
     despawnUnit: alphamod-bomb
+     despawnUnitCount: 2
+        despawnUnitRadius: 10
   }
-  shake: 1
+  shake: 5
   shootSound: explosion
 }]
