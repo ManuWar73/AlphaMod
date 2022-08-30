@@ -11,11 +11,11 @@ inaccuracy: 20
 range: 250
 reload: 0.1
 consumes: {
-power: 1
+power: 3
 }
 shootType: {
            type: BasicBulletType
-           damage: 5
+           damage: 30
            speed: 16
            lifetime: 15
           frontColor: 05c7b7
