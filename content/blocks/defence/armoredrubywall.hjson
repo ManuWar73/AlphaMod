@@ -9,13 +9,13 @@ requirements: [
 ]
 inaccuracy: 30
 reload: 1
-cosumes: {
+consumes: {
 power: 1
 }
 shootType: {
            type: BasicBulletType
            damage: 5
-           width: 0.5
-           length: 0.5
+           width: 3
+           length: 3
            lightColor: 05c7b7
            }
