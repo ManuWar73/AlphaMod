@@ -18,7 +18,7 @@ requirements: [
   ruby/20
 ]
 category: crafting
-outputItems: [
+outputItem: [
     thorium/2
     silicon/2
     ]
