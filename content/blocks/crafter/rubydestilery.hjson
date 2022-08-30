@@ -13,11 +13,12 @@ consumes: {
   }
 }
 requirements: [
-  silicone/20
+  silicon/20
   thorium/20
   ruby/20
 ]
 category: crafting
-outputItem: [
+outputItems: [
     thorium/2
+    silicon/2
     ]
