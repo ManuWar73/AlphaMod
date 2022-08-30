@@ -1,0 +1,21 @@
+type: powerTurret
+size: 2
+health: 14000
+category: defense
+requirements: [
+  ruby/60
+  copper/50
+  lead/80
+]
+inaccuracy: 30
+reload: 1
+cosumes: {
+power: 1
+}
+shootType: {
+           type: BasicBulletType
+           damage: 5
+           width: 0.5
+           length: 0.5
+           lightColor: 05c7b7
+           }

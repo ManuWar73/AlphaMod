@@ -1,0 +1,7 @@
+type: Wall
+size: 2
+health: 16000
+category: defense
+requirements: [
+  ruby/40
+]
