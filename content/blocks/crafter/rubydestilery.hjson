@@ -20,5 +20,5 @@ requirements: [
 category: crafting
 outputItems: [
     thorium/2
-    silicone/2
+    silicon/2
     ]
