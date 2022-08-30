@@ -20,5 +20,5 @@ shootType: {
            lifetime: 12
            width: 3
            length: 3
-           lightColor: 05c7b7
+           FrontColor: 05c7b7
            }
