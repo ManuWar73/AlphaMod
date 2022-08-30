@@ -1,0 +1,27 @@
+#tier 3
+type: mech
+health: 500
+speed: 1.0
+range: 0
+mechSideSway: 0.25
+weapons: [{
+  name: clear
+  x: 0
+  y: 0
+  bullet: {
+    type: BombBulletType
+    damage: 0
+    ammoMultiplier: 1
+    killShooter: true
+    lifetime: 20
+    speed: 1
+    splashDamage: 300
+    splashDamageRadius: 90
+    collidesAir: true
+    instantDisappear: true
+    hitEffect: melting
+    despawnUnit: alphamod-bomb
+  }
+  shake: 1
+  shootSound: explosion
+}]
