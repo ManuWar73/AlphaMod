@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2970637-1579-4f7e-96c6-723d9189919f" name="Changes" comment="The update1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blocks/defence/armoredrubywall.hjson" beforeDir="false" afterPath="$PROJECT_DIR$/content/blocks/defence/armoredrubywall.hjson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blocks/defence/bigrubywall.hjson" beforeDir="false" afterPath="$PROJECT_DIR$/content/blocks/defence/bigrubywall.hjson" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blocks/defence/rubywall.hjson" beforeDir="false" afterPath="$PROJECT_DIR$/content/blocks/defence/rubywall.hjson" afterDir="false" />
-    </list>
+    <list default="true" id="d2970637-1579-4f7e-96c6-723d9189919f" name="Changes" comment="The update1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661857955146</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="The update1">
+      <created>1661858166766</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1661858166766</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
