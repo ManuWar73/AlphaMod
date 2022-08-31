@@ -20,6 +20,8 @@ shootType: {
            shoot: { 
             shots: 25
          }
+         lenght: 80
+         width: 1
            healAmount: 30
            speed: 40
            lifetime: 2
