@@ -9,7 +9,6 @@ requirements: [
 ]
 range: 1000
 reload: 300.0
-lifetime: 100
 hitSize: 1000
 consumes: {
 power: 100
@@ -18,6 +17,6 @@ shootType: {
            type: LaserBulletType
            damage: 20000
            width: 40
-           length: 160
+           length: 1000
            colors: [7382f040, 7382f0, ffffff]
            }
