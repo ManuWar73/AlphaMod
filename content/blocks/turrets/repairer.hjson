@@ -13,7 +13,7 @@ inaccuracy: 20
             shots: 25
          }
 reload: 30
-targetHealing:true
+targetHealing: true
 consumes: {
 power: 20
 }
@@ -25,7 +25,7 @@ shootType: {
            healAmount: 30
            speed: 8
            lifetime: 10
-          Colors: [6aff57, 6aff57, ffffff]
+          Colors: [6aff57, 6aff57, 6aff57]
           lightRadius: 8
           pierce: true
           pierceCap: 10
