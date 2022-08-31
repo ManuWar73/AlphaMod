@@ -8,23 +8,22 @@ requirements: [
   titanium/80
 ]
 range: 80
+inaccuracy: 20
 reload: 30
 targetHealing:true
 consumes: {
 power: 20
 }
 shootType: {
-           type: LightningBulletType
-           lightningCone: 5
-           lightning: 25
-           lightningAngle: 20
+           type: LaserBulletType
            damage: 3
+           shoot: { 
+            shots: 25
+         }
            healAmount: 30
            speed: 40
            lifetime: 2
-          lightningColor: 6aff57
-          lightningLenght: 4
-          lightningLenghtRand: 0
+          LightColor: 6aff57
           pierce: true
           pierceCap: 10
           pierceBuilding: true
