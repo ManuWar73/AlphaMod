@@ -1,0 +1,31 @@
+type: powerTurret
+size: 2
+health: 600
+category: effect
+requirements: [
+  ruby/100
+  surge-alloy/50
+  titanium/80
+]
+range: 80
+reload: 30
+inaccuracy: 20
+consumes: {
+power: 20
+}
+shootType: {
+           type: LightningBulletType
+           shoot: {
+            shots: 25
+           }
+           damage: 3
+           healAmount: 30
+           speed: 40
+           lifetime: 2
+          lightningColor: 6aff57
+          lightningLenght: 1
+          lightningLenghtRand: 2
+          pierce: true
+          pierceCap: 10
+          pierceBuilding: true
+           }
