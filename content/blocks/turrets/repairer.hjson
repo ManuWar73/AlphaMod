@@ -23,9 +23,11 @@ shootType: {
          lenght: 80
          width: 1
            healAmount: 30
-           speed: 40
-           lifetime: 2
+           speed: 8
+           lifetime: 10
           LightColor: 6aff57
+          frontColor: 6aff57
+          backColor: 6aff57
           pierce: true
           pierceCap: 10
           pierceBuilding: true
