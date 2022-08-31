@@ -12,6 +12,7 @@ range: 1000
             shots: 25
          }
 reload: 300.0
+lifetime: 100
 hitSize: 40
 consumes: {
 power: 100
