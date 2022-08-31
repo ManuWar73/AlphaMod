@@ -7,7 +7,7 @@ requirements: [
   surge-alloy/50
   titanium/80
 ]
-range: 80
+range: 160
 inaccuracy: 20
 reload: 30
 targetHealing:true
@@ -21,7 +21,7 @@ shootType: {
             shots: 25
          }
          lenght: 80
-         width: 1
+         width: 4
            healAmount: 30
            speed: 8
            lifetime: 10
