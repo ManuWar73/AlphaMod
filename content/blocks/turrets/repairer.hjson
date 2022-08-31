@@ -12,7 +12,7 @@ range: 1000
             shots: 25
          }
 reload: 300.0
-hitSize: 16
+hitSize: 40
 consumes: {
 power: 100
 }
@@ -20,11 +20,8 @@ shootType: {
            type: LaserBulletType
            damage: 10000
          lenght: 1000
-         width: 16
-           speed: 100
-           lifetime: 10
+         width: 40
           Colors: [6aff57, 6aff57, 6aff57]
           pierce: true
           pierceCap: 10
-          pierceBuilding: true
            }
