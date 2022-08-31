@@ -9,6 +9,9 @@ requirements: [
 ]
 range: 160
 inaccuracy: 20
+           shoot: { 
+            shots: 25
+         }
 reload: 30
 targetHealing:true
 consumes: {
@@ -17,17 +20,13 @@ power: 20
 shootType: {
            type: LaserBulletType
            damage: 3
-           shoot: { 
-            shots: 25
-         }
-         lenght: 80
-         width: 4
+         lenght: 160
+         width: 8
            healAmount: 30
            speed: 8
            lifetime: 10
           LightColor: 6aff57
-          frontColor: 6aff57
-          backColor: 6aff57
+          lightRadius: 8
           pierce: true
           pierceCap: 10
           pierceBuilding: true
