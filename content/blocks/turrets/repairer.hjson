@@ -1,7 +1,7 @@
 type: powerTurret
 size: 2
 health: 600
-category: effect
+category: turret
 requirements: [
   ruby/100
   surge-alloy/50
