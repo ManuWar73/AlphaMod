@@ -11,7 +11,8 @@ range: 1000
            shoot: { 
             shots: 25
          }
-reload: 300
+reload: 300.0
+hitSize: 16
 consumes: {
 power: 100
 }
