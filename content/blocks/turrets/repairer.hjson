@@ -8,9 +8,6 @@ requirements: [
   titanium/80
 ]
 range: 1000
-           shoot: { 
-            shots: 25
-         }
 reload: 300.0
 lifetime: 100
 hitSize: 1000
@@ -19,10 +16,8 @@ power: 100
 }
 shootType: {
            type: LaserBulletType
-           damage: 10000
-         lenght: 10000
-         width: 40
-          Colors: [6aff57, 6aff57, 6aff57]
-          pierce: true
-          pierceCap: 10
+           damage: 20000
+           width: 40
+           length: 160
+           colors: [7382f040, 7382f0, ffffff]
            }
